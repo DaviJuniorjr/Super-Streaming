@@ -1,0 +1,112 @@
+.layout {
+    background-color: black;
+    color: aliceblue;
+    width: 1400px;
+    height: 1100px;
+}
+
+#seriado {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(16, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#desenho{
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#religiao {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(20, 1, 70);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#voltar {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(24, 2, 83);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+}
+
+#banner {
+    height: 500px;
+    width: 900px;
+    background-color: rgba(0, 0, 0, 0.589);
+    margin-left: 16%;
+}
+
+#tech {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(16, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#negocios {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#financas {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(22, 1, 80);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#futebol {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(17, 2, 77);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#comedia {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#noticias {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(19, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
