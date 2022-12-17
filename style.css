@@ -2,7 +2,20 @@
     background-color: black;
     color: aliceblue;
     width: 1400px;
-    height: 1100px;
+    height: 1800px;  
+}
+
+.conteiner {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+    align-items: center;
+    color: rgb(182, 3, 3);
+}
+
+#logo {
+    width: 90px;
+    height: 90px;
 }
 
 #seriado {
@@ -15,7 +28,37 @@
     margin: 20px;
 }
 
-#desenho{
+#seriado2 {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(16, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#seriado3 {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(16, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#dorama {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(16, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#jogos {
     height: 50px;
     width: 410px;
     background-color: rgb(13, 1, 68);
@@ -25,7 +68,68 @@
     margin: 20px;
 }
 
-#religiao {
+#historia {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#historia2 {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+#desenho {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#desenho2 {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#desenho3 {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(13, 1, 68);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#teologia {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(20, 1, 70);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#teologia2 {
     height: 50px;
     width: 410px;
     background-color: rgb(20, 1, 70);
@@ -38,7 +142,7 @@
 #voltar {
     height: 50px;
     width: 410px;
-    background-color: rgb(24, 2, 83);
+    background-color: rgb(70, 4, 252);
     color: rgb(251, 251, 253);
     font-size: large;
     border-radius: 10px;
@@ -46,8 +150,14 @@
 
 #banner {
     height: 500px;
-    width: 900px;
+    width: 1400px;
     background-color: rgba(0, 0, 0, 0.589);
+    margin-left: 0%;
+}
+
+#video {
+    height: 250px;
+    width: 300px;
     margin-left: 16%;
 }
 
@@ -105,6 +215,46 @@
     height: 50px;
     width: 410px;
     background-color: rgb(19, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#guia {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(19, 2, 66);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#wpp {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(1, 105, 15);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#linkedin {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(42, 3, 148);
+    color: rgb(251, 251, 253);
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#insta {
+    height: 50px;
+    width: 410px;
+    background-color: rgb(182, 14, 51);
     color: rgb(251, 251, 253);
     font-size: large;
     border-radius: 10px;
