@@ -2,7 +2,7 @@
     background-color: black;
     color: aliceblue;
     width: 1400px;
-    height: 1800px;  
+    height: 100%;  
 }
 
 .conteiner {
@@ -28,6 +28,11 @@
     margin: 20px;
 }
 
+#seriado:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #seriado2 {
     height: 50px;
     width: 410px;
@@ -36,6 +41,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#seriado2:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #seriado3 {
@@ -48,6 +58,11 @@
     margin: 20px;
 }
 
+#seriado3:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #dorama {
     height: 50px;
     width: 410px;
@@ -56,6 +71,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#dorama:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #jogos {
@@ -68,6 +88,11 @@
     margin: 20px;
 }
 
+#jogos:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #historia {
     height: 50px;
     width: 410px;
@@ -77,6 +102,12 @@
     border-radius: 10px;
     margin: 20px;
 }
+
+#historia:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 
 #historia2 {
     height: 50px;
@@ -88,6 +119,10 @@
     margin: 20px;
 }
 
+#historia2:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
 
 #desenho {
     height: 50px;
@@ -97,6 +132,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#desenho:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #desenho2 {
@@ -109,6 +149,11 @@
     margin: 20px;
 }
 
+#desenho2:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #desenho3 {
     height: 50px;
     width: 410px;
@@ -117,6 +162,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#desenho3:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #teologia {
@@ -129,6 +179,11 @@
     margin: 20px;
 }
 
+#teologia:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #teologia2 {
     height: 50px;
     width: 410px;
@@ -139,6 +194,11 @@
     margin: 20px;
 }
 
+#teologia2:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #voltar {
     height: 50px;
     width: 410px;
@@ -146,6 +206,11 @@
     color: rgb(251, 251, 253);
     font-size: large;
     border-radius: 10px;
+}
+
+#voltar:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #banner {
@@ -171,6 +236,11 @@
     margin: 20px;
 }
 
+#tech:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #negocios {
     height: 50px;
     width: 410px;
@@ -179,6 +249,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#negocios:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #financas {
@@ -191,6 +266,11 @@
     margin: 20px;
 }
 
+#financas:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #futebol {
     height: 50px;
     width: 410px;
@@ -199,6 +279,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#futebol:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #comedia {
@@ -211,6 +296,11 @@
     margin: 20px;
 }
 
+#comedia:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #noticias {
     height: 50px;
     width: 410px;
@@ -219,6 +309,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#noticias:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #guia {
@@ -231,6 +326,11 @@
     margin: 20px;
 }
 
+#guia:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #wpp {
     height: 50px;
     width: 410px;
@@ -239,6 +339,11 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#wpp:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
 
 #linkedin {
@@ -251,6 +356,11 @@
     margin: 20px;
 }
 
+#linkedin:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
+}
+
 #insta {
     height: 50px;
     width: 410px;
@@ -259,4 +369,9 @@
     font-size: large;
     border-radius: 10px;
     margin: 20px;
+}
+
+#insta:hover {
+    background-color: rgb(182, 3, 3);
+    transition: 0.4s;
 }
